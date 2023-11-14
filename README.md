@@ -1,4 +1,4 @@
-# ppi-dia-das-crian-as
+# ppi-dia-das-crianas
 site informativo sobre o evento do dia das crianças.
 grupo rafael silva, marcio, vinicius, raissa
 
